@@ -1,4 +1,7 @@
-we are including some top 30 git commands needed for our Day to day activities and out of 10 which we use rarely!!
+######################################################################################################################
+we are including some top 30 git commands needed for our Day to day activities and out of 10 which we use rarely!!#####
+######################################################################################################################
+######################################################################################################################
 git init: Initializes an empty Git repository in the current directory.
 git clone: Copies a remote Git repository to your local machine.
 git add: Adds changes in the working directory to the staging area.
