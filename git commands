@@ -1,0 +1,31 @@
+we are including some top 30 git commands needed for our Day to day activities and out of 10 which we use rarely!!
+git init: Initializes an empty Git repository in the current directory.
+git clone: Copies a remote Git repository to your local machine.
+git add: Adds changes in the working directory to the staging area.
+git commit: Commits changes from the staging area to the local repository.
+git status: Shows the current status of the repository.
+git diff: Shows the difference between the working directory and the staging area.
+git log: Displays the commit history of the local repository.
+git branch: Lists all local branches in the repository.
+git checkout: Switches between branches or commits.
+git merge: Merges changes from one branch to another.
+git remote: Shows a list of remote repositories.
+git fetch: Downloads changes from a remote repository to the local repository.
+git pull: Downloads and merges changes from a remote repository to the local repository.
+git push: Uploads changes from the local repository to a remote repository.
+git tag: Creates or lists tags in the repository.
+git reset: Resets the repository to a previous commit or to the state before changes were staged.
+git revert: Creates a new commit that undoes changes from a previous commit.
+git stash: Temporarily saves changes that are not ready to be committed.
+git cherry-pick: Applies a specific commit to the current branch.
+git show: Displays information about a specific commit.
+git config: Configures Git settings.
+git rm: Removes files from the working directory and the repository.
+git mv: Moves or renames files in the working directory and the repository.
+git grep: Searches for a specific string in the repository.
+git blame: Shows who made changes to a specific line of code and when.
+git submodule: Manages submodules in a Git repository.
+git archive: Creates a tar or zip archive of the repository.
+git bisect: Helps find the commit that introduced a bug.
+git log --graph: Shows the commit history as a graph.
+git reflog: Shows a log of all Git actions, including those that were undone.
