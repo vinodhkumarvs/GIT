@@ -1,5 +1,5 @@
 ######################################################################################################################
-we are including some top 30 git commands needed for our Day to day activities and out of 10 which we use rarely!!#####
+we are including some top mostly used git commands needed for our Day to day activities and out of 10 which we use rarely!!#####
 ######################################################################################################################
 ######################################################################################################################
 git init: Initializes an empty Git repository in the current directory.
@@ -20,15 +20,3 @@ git tag: Creates or lists tags in the repository.
 git reset: Resets the repository to a previous commit or to the state before changes were staged.
 git revert: Creates a new commit that undoes changes from a previous commit.
 git stash: Temporarily saves changes that are not ready to be committed.
-git cherry-pick: Applies a specific commit to the current branch.
-git show: Displays information about a specific commit.
-git config: Configures Git settings.
-git rm: Removes files from the working directory and the repository.
-git mv: Moves or renames files in the working directory and the repository.
-git grep: Searches for a specific string in the repository.
-git blame: Shows who made changes to a specific line of code and when.
-git submodule: Manages submodules in a Git repository.
-git archive: Creates a tar or zip archive of the repository.
-git bisect: Helps find the commit that introduced a bug.
-git log --graph: Shows the commit history as a graph.
-git reflog: Shows a log of all Git actions, including those that were undone.
